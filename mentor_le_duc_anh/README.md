@@ -8,7 +8,7 @@ To develop the Distance Computing Algorithm to estimate the distances between fu
 Third Prize on Hai Phong City Math Competition
 ## Working experiences
 ### From 2017 to now In Hoc68 Team
-1. Developed education project: Hoc68 – Chemistry 
+**1. Developed education project: Hoc68 – Chemistry**
 - Responsibility: Solution architecture, backend and android developer
 - Engineering: Microservice system with Spring boot, Redis, RabbitMQ
 - Database: MongoDB
