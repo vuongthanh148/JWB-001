@@ -17,7 +17,8 @@
 
 ### Sở trường
 - Tự tìm hiểu kiến thức mới
-- ... ( tại em c
+- ... ( tại em cũng chưa nghĩ ra ạ)
+
 ### Sở đoản
 - Ca múa nhạc( giọng không thể hát nổi )
 
