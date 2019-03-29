@@ -16,7 +16,8 @@
 - Biết về database: MySQL
 
 ### Sở trường
-- 
+- Tự tìm hiểu kiến thức mới
+- ... ( tại em c
 ### Sở đoản
 - Ca múa nhạc( giọng không thể hát nổi )
 
