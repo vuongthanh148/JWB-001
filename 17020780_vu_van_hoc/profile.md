@@ -6,17 +6,20 @@
 - Họ tên: **Vũ Văn Học**
 - Ngày sinh: 01/01/1999
 - Nơi sinh: Bắc Ninh
+- Số điện thoại: 0343847478
+- Email: h
 - Sinh viên K62- Trường Đại học Công nghệ- Đại học QUốc gia Hà Nội( UET- VNU)
 - Tình trạng hôn nhân: sắp có *Gấu*
 
 ### Kĩ năng cá nhân
-- Hiểu biết Java core( ở mức độ cơ bản), hướng đối tượng
+- Hiểu biết Java core, hướng đối tượng
 - Biết về database: MySQL
 
 ### Sở trường
 - 
 ### Sở đoản
-- Ca múa nhạc
+- Ca múa nhạc( giọng không thể hát nổi )
+
 
 ### Sở thích
 - Viết code (dĩ nhiên rồi :)), *debug*. Mặc dù nhiều lúc rất bực vì **BUG** mẹ đẻ *bug* con 
