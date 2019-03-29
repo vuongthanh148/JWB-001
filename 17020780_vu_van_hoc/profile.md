@@ -7,7 +7,7 @@
 - Ngày sinh: 01/01/1999
 - Nơi sinh: Bắc Ninh
 - Số điện thoại: 0343847478
-- Email: h
+- Email: hocvanvu1999@gmail.com
 - Sinh viên K62- Trường Đại học Công nghệ- Đại học QUốc gia Hà Nội( UET- VNU)
 - Tình trạng hôn nhân: sắp có *Gấu*
 
