@@ -10,3 +10,4 @@
 * Cân nặng hiện tại: 61kg
 * Sở thích: bơi lội
 * Câu nói yêu thích: *"Đường ở dưới chân, cứ đi rồi sẽ đến."*
+
