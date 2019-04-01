@@ -14,7 +14,11 @@
 </ul>
 <h2>Sở trường</h2>
 <ul>
+<li>111WPM.</li>
+<li>Tự học.</li>
 </ul>
 <h2>Sở đoản</h2>
 <ul>
+<li>Văn nghệ.</li>
+<li>Khả năng tập trung.</li>
 </ul>
